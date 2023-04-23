@@ -52,55 +52,6 @@ class _MyHomePageState extends State<MyHomePage> {
             Container(height: 100,width: width,color: Colors.purpleAccent,),
             Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
             Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),        Container(height: 100,width: width,color: Colors.amber,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.lightBlueAccent,),
-            Container(height: 100,width: width,color: Colors.teal,),
-            Container(height: 100,width: width,color: Colors.purpleAccent,),
-            Container(height: 100,width: width,color: Colors.black,),
-
-
-
-
-
-
-
-
-
-
           ],),
         ),
       ),
